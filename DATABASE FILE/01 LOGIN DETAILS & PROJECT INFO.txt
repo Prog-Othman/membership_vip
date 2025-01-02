@@ -1,0 +1,12 @@
+
+**Database Name: membershiphp**
+
+**Developed by Othman Nak**
+
+**Recommended PHP Version 7**
+
+
+**Login Details**
+
+Email   : admin@mail.com
+Password: codeastro.com
