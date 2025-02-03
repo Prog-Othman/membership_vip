@@ -2,7 +2,7 @@
 
 **Database Name: membershiphp**
 
-**Developed by CodeAstro**
+**Developed by Othman nakraoui**
 
 **Recommended PHP Version 7**
 
